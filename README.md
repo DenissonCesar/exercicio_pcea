@@ -1,3 +1,3 @@
-# exercicio_pcea
+## Exercicio Fundamentos PC e A de Computadores
 
-## Fazer um fork desse repositório e enviar uma alteração no README.md, com um parágrafo sobre essa matéria.
+# Nesta matéria, estudamos os fundamentos de programação e conceitos essenciais da arquitetura de computadores. Aprendemos como o hardware e o software interagem, explorando a organização de sistemas computacionais, memória, processadores e lógica binária. Também discutimos a importância do licenciamento de software, entendendo as diferenças entre licenças livres, abertas e proprietárias — como a GPL-3.0 utilizada neste repositório — e como essas licenças influenciam o uso, distribuição e modificação de programas.
